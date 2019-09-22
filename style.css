@@ -2,3 +2,13 @@
 Theme Name: Demo Theme
 Author: Alex Darmos
 */
+
+body {
+    background: lightgrey;
+}
+
+header {
+    background: white;
+    width: 100%;
+    height: 100px;
+}  
